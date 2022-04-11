@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---cache-dev-404-page-js",
-    "path": "/dev-404-page",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/article/just-test"},{"path":"/en/article/just-test"},{"path":"/en/article/en-just-test"},{"path":"/en/en/article/en-just-test"},{"path":"/en/dev-404-page"},{"path":"/en/en/dev-404-page"},{"path":"/404"},{"path":"/404.html"},{"path":"/about"},{"path":"/"},{"path":"/en/404.html"},{"path":"/en/en/404.html"},{"path":"/en/404"},{"path":"/en/en/404"},{"path":"/en/about"},{"path":"/en/en/about"},{"path":"/en"},{"path":"/en/en"}]}},"pageContext":{"language":"ko","i18n":{"language":"ko","languages":["ko","en"],"defaultLanguage":"ko","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/dev-404-page","path":"/dev-404-page"},"locale":"ko","defaultLocale":"ko","locales":["ko","en"]}},
-    "staticQueryHashes": []}
